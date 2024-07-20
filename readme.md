@@ -11,9 +11,9 @@ Para poder correr este notebook es necesario instalar magenta , la dificultad ra
 # Inicio 
 
 ```bash
-git clone $repo
+git clone [$repo](https://github.com/LeonardoFranco28/semestral.git)
 
-cd $repo 
+cd semestral
 
 docker build -t semestral . 
 

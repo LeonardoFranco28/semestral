@@ -48,6 +48,14 @@ Paso 2 : posterior a esto tendremos que crear una carpeta llamada content para s
 Paso 3 :  
 Subimos el archivo .ipynb  y lo abrimos como notebook que hace referencia al proyecto semestral 
 
+
+#LINK Notebook
+
+https://utpac-my.sharepoint.com/:u:/g/personal/leonardo_franco_utp_ac_pa/EUw4lepDMsdMqK33kCLzRMIBvpIRI4JlBHpp_oXTDbjiaw?e=YZrBo8
+
+
+
+
 # Conclusión 
 
 siguiendo estos paso ya es posible ejecutar codigo con el framework de magenta , asi como ser portatil para cualquier sistema operativo

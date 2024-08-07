@@ -1,5 +1,7 @@
 # Descripción 
 
+Pequeño semestral usando magenta tensorflow  una libreria para la creación de arte y música 
+
 Para poder correr este notebook es necesario instalar magenta , la dificultad radica en que magenta no esta disponible para windows por lo cual hay dos vias de corre este notebook , la primera seria ejecutarlo en linux siguiendos las guias de instalación de magenta o esta forma que es desplegar un contenedor con las dependecias necesarias y jupyter notebook para poder verlo de mejor manera.
 
 # Requerimientos de PC
